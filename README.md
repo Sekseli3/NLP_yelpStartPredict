@@ -23,6 +23,8 @@ First you get top 10 keywords for each category, after that you get the amount o
 
 <img width="815" alt="Screenshot 2024-01-11 at 20 27 45" src="https://github.com/Sekseli3/NLP_yelpStartPredict/assets/120391401/4bb079a2-a38b-4802-8360-5fcd6acc2b78">
 
+The accuracy score varies between 0.5 and 0.6
+
 ## Dependencies
 
 This project requires the following Python libraries:
