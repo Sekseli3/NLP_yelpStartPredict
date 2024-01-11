@@ -18,6 +18,8 @@ The main script is `main.py`. Run this script to train the model and print the t
 
 You can also use the model to predict the star rating of a review by calling `model.predict(['Your review text here'])`. 
 
+## Results
+First you get top 10 keywords for each category, after that you get the amount of start for your own input
 ## Dependencies
 
 This project requires the following Python libraries:
